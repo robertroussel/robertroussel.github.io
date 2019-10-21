@@ -1,6 +1,6 @@
 ## Welcome
 
-My name is [Robert Roussel](www.linkedin.com/in/robert-a-roussel) and my page is a platform for me to publish policy-relevant data visualizations.
+My name is Robert Roussel and my page is a platform for me to publish policy-relevant data visualizations.
 
 I invite anyone to copy my visualizations freely as long as you cite me as the source or otherwise give me credit, and I encourage anyone here to look at the source code to further their understanding of the process of create data visualizations.
 
