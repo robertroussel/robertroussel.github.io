@@ -2,6 +2,7 @@
 
 ## My name is Robert and here are some cool policy-relevant data visualizations.
 
+
 I invite anyone to copy my visualizations freely as long as you cite me as the source or otherwise give me credit, and I encourage anyone here to look at the source code to further their understanding of the process of create data visualizations.
 
 ### Topic 1. Consumer Debt.
