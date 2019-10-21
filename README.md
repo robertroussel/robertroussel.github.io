@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/robertroussel/robertroussel.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is [Robert Roussel](www.linkedin.com/in/robert-a-roussel) and my page is a platform for me to publish policy-relevant data visualizations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I invite anyone to copy my visualizations freely as long as you cite me as the source or otherwise give me credit, and I encourage anyone here to look at the source code to further their understanding of the process of create data visualizations.
 
-### Markdown
+### Topic 1. Consumer Debt.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+# Extra Notes for remembering syntax for markdown
 
 ```markdown
 Syntax highlighted code block
@@ -27,11 +29,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/robertroussel/robertroussel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
